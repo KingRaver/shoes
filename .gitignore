@@ -1,0 +1,32 @@
+# Environment variables
+.env
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.class
+
+# Database files
+*.db
+*.sqlite3
+
+# Log files
+logs/**/*.json
+logs/**/*.log
+*.log
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
